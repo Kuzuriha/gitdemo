@@ -2,18 +2,18 @@ package com.example.gitdemo.comtroller;
 
 public class userComtroller {
     public String index(){
-        return "index1";
+        return "index123";
     }
     public String login(){
-        return "login1";
+        return "login123";
     }
     public String register(){
-        return "register1";
+        return "register123";
     }
     public String logout(){
-        return "logout1";
+        return "logout123";
     }
     public String user(){
-        return "user1";
+        return "user123";
     }
 }
